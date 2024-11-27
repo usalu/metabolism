@@ -25,6 +25,8 @@ While [metabolists](<https://en.wikipedia.org/wiki/Metabolism_(architecture)>) s
 
 Let me demonstrate metametabolism on metabolism 🤯
 
+![Design Variants](https://raw.githubusercontent.com/usalu/metabolism/dev-tag/docs/design-variants.png)
+
 # 🗼 Nakagin Capsule Tower
 
 ## 📚 Theory ... oh my
