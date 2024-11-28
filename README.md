@@ -65,11 +65,11 @@ A bit overwhelmed? Just take a look at the source files 💡
 
 > Make sure to open Rhino 8 and set the model units to `Meter`.
 
-Just open the main Grasshopper definition `nakagin-capule-tower.gh`, hit the `Load kit` toggle, lean back and enjoy 🍸
+Just open the main Grasshopper definition `nakagin-capule-tower.gh`, hit the run toggles and enjoy 🍸
 
 ![Grasshopper Parametric Design](https://raw.githubusercontent.com/usalu/metabolism/dev-tag/docs/grasshopper-definition.png)
 
-After around a minute, you should see the preview of the designs in Rhino:
+The `City of Capsules` design should take around a minute to load the geometry 🐚
 
 ![Design Variants](https://raw.githubusercontent.com/usalu/metabolism/dev-tag/docs/design-variants-rhino.png)
 
