@@ -61,7 +61,7 @@ A bit overwhelmed? Just take a look at the source files 💡
 
 ### ✏️ sketchpad
 
-![Sketchpad Overview](https://raw.githubusercontent.com/usalu/metabolism/main-tag/docs/sketchpad-overview.png)
+![Sketchpad Overview](https://raw.githubusercontent.com/usalu/metabolism/main-tag/docs/sketchpad-demo.gif)
 
 ### 🦗 Grasshopper
 
