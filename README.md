@@ -158,5 +158,6 @@ From here, all user-interfaces can access the data over the GraphQL-API ⚡
 
 <p align="center">
     <a href="https://github.com/usalu/metabolism"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fusalu%2Fmetabolism?color=gray&label=views&size=small" alt="views"/></a>
-    <img src="https://stats.docs.semio-tech.com/count?p=https://github.com/usalu/metabolism">
 </p>
+
+![Pixel](https://stats.docs.semio-tech.com/count?p=https://github.com/usalu/metabolism)
