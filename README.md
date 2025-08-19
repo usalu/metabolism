@@ -13,7 +13,7 @@
     <br/>
     <a><img src="https://raw.githubusercontent.com/usalu/metabolism/refs/heads/main/badges/types.svg" alt="Types"></a>
     <a><img src="https://raw.githubusercontent.com/usalu/metabolism/refs/heads/main/badges/ports.svg" alt="Ports"></a>
-    <a><img src="https://raw.githubusercontent.com/usalu/metabolism/refs/heads/main/badges/qualities.svg" alt="Qualities"></a>
+    <a><img src="https://raw.githubusercontent.com/usalu/metabolism/refs/heads/main/badges/attributes.svg" alt="Attributes"></a>
     <br/>
     <a><img src="https://raw.githubusercontent.com/usalu/metabolism/refs/heads/main/badges/representations.svg" alt="Representations"></a>
     <a><img src="https://raw.githubusercontent.com/usalu/metabolism/refs/heads/main/badges/lods.svg" alt="LoDs"></a>
