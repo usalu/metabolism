@@ -15,7 +15,7 @@
     <a><img src="https://raw.githubusercontent.com/usalu/metabolism/refs/heads/main/badges/ports.svg" alt="Ports"></a>
     <a><img src="https://raw.githubusercontent.com/usalu/metabolism/refs/heads/main/badges/attributes.svg" alt="Attributes"></a>
     <br/>
-    <a><img src="https://raw.githubusercontent.com/usalu/metabolism/refs/heads/main/badges/representations.svg" alt="Representations"></a>
+    <a><img src="https://raw.githubusercontent.com/usalu/metabolism/refs/heads/main/badges/models.svg" alt="Models"></a>
     <a><img src="https://raw.githubusercontent.com/usalu/metabolism/refs/heads/main/badges/lods.svg" alt="LoDs"></a>
     <a><img src="https://raw.githubusercontent.com/usalu/metabolism/refs/heads/main/badges/tags.svg" alt="Tags"></a>
     <br/>
@@ -75,11 +75,11 @@ The `Capsule Dream` design should take around a minute to load the geometry 🐚
 
 ![Design Variants](https://raw.githubusercontent.com/usalu/metabolism/refs/heads/main/docs/design-variants-rhino.png)
 
-Every model has a 1to500 representation:
+Every model has a 1to500 model:
 
 ![Rhino Default Variant 1to500 volume](https://raw.githubusercontent.com/usalu/metabolism/refs/heads/main/docs/rhino-default-variant-1to500-volume.png)
 
-and a 1to200 representation:
+and a 1to200 model:
 
 ![Rhino Default Variant 1to200 volume](https://raw.githubusercontent.com/usalu/metabolism/refs/heads/main/docs/rhino-default-variant-1to200-volume.png)
 
@@ -109,7 +109,7 @@ Further they have metadata attached:
 
 ### 💻 Integrations
 
-Looking closely at the `types`, you see that `representation` are not (only) linking to files but instead they link `urls`. This enables you to use any storage, collaboration and version environment you like (Speckle, Dropbox, OneDrive, GitHub, Nextcloud, Spline, ...) or all of them together 🕸️
+Looking closely at the `types`, you see that `model` are not (only) linking to files but instead they link `urls`. This enables you to use any storage, collaboration and version environment you like (Speckle, Dropbox, OneDrive, GitHub, Nextcloud, Spline, ...) or all of them together 🕸️
 
 [Here](https://app.speckle.systems/projects/e7de1a2f8f) you can view the models even on your phone 📱
 
@@ -143,7 +143,7 @@ When analyzing the folder structure you see that there is a special file `.semio
 │       capsule.gh
 │       ...
 │
-└───representations
+└───models
         ...
         capsule_1.3dm
         capsule_1.glb
